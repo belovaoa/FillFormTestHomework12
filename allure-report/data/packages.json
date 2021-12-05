@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.belovaoa.test.RegistrationFormTests",
+    "children" : [ {
+      "name" : "successfulFillFormTest",
+      "uid" : "2c8b38d5e3529669",
+      "parentUid" : "a8e607a6c0dae9c8f5779e0d6799f43b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638718329900,
+        "stop" : 1638718368934,
+        "duration" : 39034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.belovaoa.test.RegistrationFormTests"
+  } ]
+}

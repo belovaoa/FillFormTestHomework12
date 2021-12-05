@@ -1,0 +1,51 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PRM-WS-0356",
+    "children" : [ {
+      "name" : "15720@PRM-WS-0356.Test worker(14)",
+      "children" : [ {
+        "name" : "successfulFillFormTest()",
+        "uid" : "ecb1383dc35bdb7c",
+        "parentUid" : "2ed163a8979e904944f160aea87061c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638716589360,
+          "stop" : 1638716629565,
+          "duration" : 40205
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ed163a8979e904944f160aea87061c9"
+    }, {
+      "name" : "11696@PRM-WS-0356.Test worker(14)",
+      "children" : [ {
+        "name" : "successfulFillFormTest()",
+        "uid" : "2c8b38d5e3529669",
+        "parentUid" : "f5d28aa26a830a469d78373c7eb70980",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638718329900,
+          "stop" : 1638718368934,
+          "duration" : 39034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5d28aa26a830a469d78373c7eb70980"
+    } ],
+    "uid" : "347a4557ab00ff4539ac3e048a8fad75"
+  } ]
+}
